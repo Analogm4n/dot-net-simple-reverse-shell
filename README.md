@@ -17,5 +17,4 @@ Once the executable is created, use *".\revshell.exe"* to running it.
 
 Testing dot net simple reverse shell
 
-o/
-Bye!
+Bye! o/
