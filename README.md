@@ -23,4 +23,8 @@ Once the executable is created, use *".\svchost.exe"* to running it.
 
 Testing dot net simple reverse shell
 
+
+# Disclaimer
+*The projects was created for educational purposes only.*
+
 Bye! o/
